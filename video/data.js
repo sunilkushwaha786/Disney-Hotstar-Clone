@@ -1,13 +1,13 @@
 let movies = [
     {
-        name: 'falcon and the winter soldier',
-        des: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!',
-        image: '/photo/slider 2.png'
+        name: 'Black Panther: Wakanda Forever',
+        des: 'Queen Ramonda, Shuri, M Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers after the death of beloved King T Challa.',
+        image: '/photo/slider0.webp'
     },
     {
         name: 'loki',
         des: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro et veniam excepturi, eaque voluptatem impedit nulla laboriosam facilis ut laboriosam libero!',
-        image: 'images/slider 1.PNG'
+        image: '/photo/slide 1.png'
     },
     {
         name: 'wanda vision',
